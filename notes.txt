@@ -5,3 +5,13 @@
 3. Create headings and text within main content area
 
 4. Add footer text
+
+5. Add highlighted areas (introduce css classes)
+
+6. Add area that will only display for mobile
+
+7. Start CSS slides
+
+8. CSS exercises
+
+9. Add web font (time permitting)
